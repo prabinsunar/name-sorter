@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Name-Sorter.exe
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Name-Sorter.deps.json
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Name-Sorter.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Name-Sorter.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Name-Sorter.dll
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Name-Sorter.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Name-Sorter.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Name-Sorter.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Name-Sorter.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Name-Sorter.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Name-Sorter.dll
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Name-Sorter.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Name-Sorter.genruntimeconfig.cache
